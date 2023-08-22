@@ -35,3 +35,4 @@ npm run build
 add json server
 
 -   npm add json-server concurrently
+-   npm run serve
